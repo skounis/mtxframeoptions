@@ -1,0 +1,5 @@
+services:
+  shp_xframe_remove_event_subscriber:
+    class: Drupal\mtxframeoptions\EventSubscriber\MTXFrameOptionsEventSubscriber
+    tags:
+      - {name: event_subscriber}

@@ -1,0 +1,5 @@
+name: MtT X-Frame-Option
+type: module
+description: Replacing X-frame-Options with Content-Security-Policy
+core: 8.x
+package: custom
